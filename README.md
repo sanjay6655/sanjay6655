@@ -80,6 +80,10 @@
 - Apache Solr
 - ElasticSearch
 
+### Cache
+- Redis
+- Memcached
+
 ### Build, Logging
 - ANT
 - Gradle
