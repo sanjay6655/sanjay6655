@@ -1,24 +1,42 @@
-# 💫 About Me:
-I am Java J2EE Application Developer.
+# **Professional Summary**
+*	Total 14+ years of extensive experience includes software design, development and support experience in Java/J2EE
+*	2+ years of experience includes software design and development using SAP Hybris 1905 in ecommerce domain
+*	7+ years of experience includes software design, development and support using IBM WCS v6.0 and v7.0 / Feature Pack 4, 6, 7 and 8 in ecommerce domain
+*	2+ years of experience includes product development in e-Learning domain
+*	3+ years of experience includes software development and support in e-Media domain
+*	Basic knowledge in Spring MicroServices
+*	Demonstrated skills in software architecture - Worked with application development teams to define, design and implement the solution architecture, with the responsibility of cross project technology and architecture vision
+*	Working experience on Agile, Scrum development methodology
+*	Deep experience and knowledge of object oriented design and analysis, and software design patterns
+*	Demonstrated ability in resolving critical technical issues
+*	A high tolerance of stress and enjoys responsibilities, Great time management skill, Quick and Self learner with good grasping ability, Action-oriented and result-focused, Lead & work as a team in an organized way
 
+<br>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanjay6655&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sanjay6655&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay6655&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# **Certification**
+*	Oracle Certified Professional, Java SE 6 Programmer (OCPJP 6 formerly known as SCJP 6)
+*	IBM Certified Application Developer – WebSphere Commerce V7.0
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanjay6655&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# **Core Expertise & Technologies**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanjay6655&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Java/J2EE Stack:** Java, JSP, Servlets, Struts, EJB, JSF
 
----
-[![](https://visitcount.itsvg.in/api?id=sanjay6655&icon=0&color=0)](https://visitcount.itsvg.in)
+**Modern Frameworks:** Spring (MVC, Boot, REST, Microservices), Hibernate
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Messaging & Streaming:** Apache ActiveMQ, Apache Kafka
+
+**Databases:** MySQL, MongoDB, Postgres, Oracle, MSSQL
+
+**Frontend:** React JS, Angular
+
+**Reporting:** JasperReports (iReport/Jasper Studio)
+
+**E-Commerce Platforms:** IBM WebSphere Commerce (WCS), SAP Hybris Commerce
+
+**Backend & Integration:** RESTful APIs, Spring REST, Swagger, Postman
+
+**DevOps & Tools:** Git/GitHub, Jenkins, Docker
+
+**Testing Framework:** JUnit, Groovy
