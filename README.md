@@ -70,7 +70,7 @@
 - MySQL
 - MongoDB
 - Postgres
-- MSSQL
+- SQL Server
 
 ### Reporting
 - iReport
