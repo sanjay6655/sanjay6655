@@ -1,6 +1,7 @@
 # **Professional Summary**
-*	Total 14+ years of extensive experience includes software design, development and support experience in Java/J2EE
-*	2+ years of experience includes software design and development using SAP Hybris 1905 in ecommerce domain
+*	Total 18+ years of extensive experience includes software design, development and support experience in Java/J2EE
+*	2+ years of experience includes software design and development using Spring MicroServices in ecommerce domain
+*	4+ years of experience includes software design and development using SAP Hybris 1905/2211 in ecommerce domain
 *	7+ years of experience includes software design, development and support using IBM WCS v6.0 and v7.0 / Feature Pack 4, 6, 7 and 8 in ecommerce domain
 *	2+ years of experience includes product development in e-Learning domain
 *	3+ years of experience includes software development and support in e-Media domain
@@ -19,24 +20,93 @@
 
 <br>
 
-# **Core Expertise & Technologies**
+## Tools & Technologies
 
-**Java/J2EE Stack:** Java, JSP, Servlets, Struts, EJB, JSF
+### Bug Tracking
+- Trackit Record
+- JIRA
+- Rally
 
-**Modern Frameworks:** Spring (MVC, Boot, REST, Microservices), Hibernate
+### IDEs & Development Tools
+- Eclipse
+- IntelliJ
+- IBM RAD
+- TOAD
+- SQL Developer
+- Cygwin
+- Putty
+- JMX Console
 
-**Messaging & Streaming:** Apache ActiveMQ, Apache Kafka
+### Languages & Frameworks
+- Java
+- JSP, Servlet
+- Struts 1.2
+- EJB 2.0 / 2.1 / 3.0
+- JSF
+- Spring (MVC, Boot, REST, Batch, JPA)
+- Hibernate
+- XML/XSL
 
-**Databases:** MySQL, MongoDB, Postgres, Oracle, MSSQL
+### Frontend
+- React JS
+- Angular
 
-**Frontend:** React JS, Angular
+### E-Commerce Platforms
+- IBM WebSphere Commerce (WCS)
+- SAP Hybris Commerce
 
-**Reporting:** JasperReports (iReport/Jasper Studio)
+### Messaging & Streaming
+- Apache ActiveMQ
+- Apache Kafka
+  
+### Application Servers
+- WebLogic 8.1
+- JBOSS 4.2
+- IBM WebSphere Commerce Server 7.0
+- SAP Hybris 1905
 
-**E-Commerce Platforms:** IBM WebSphere Commerce (WCS), SAP Hybris Commerce
+### Databases
+- Oracle 9i / 11g
+- DB2
+- MySQL
+- MongoDB
+- Postgres
+- MSSQL
 
-**Backend & Integration:** RESTful APIs, Spring REST, Swagger, Postman
+### Reporting
+- iReport
+- JasperReports
 
-**DevOps & Tools:** Git/GitHub, Jenkins, Docker
+#### Search  
+- Apache Solr
+- Elasticsearch
 
-**Testing Framework:** JUnit, Groovy
+### Build, Logging
+- ANT
+- Gradle
+- Maven
+- Log4j
+
+### Scheduling  
+- Quartz Scheduler
+
+### DevOps Tool
+- Git/GitHub
+- CVS
+- SVN
+- IBM ClearCase
+- Jenkins
+- Docker
+
+### Web Services
+- Apache Axis
+- SOAP
+- WSDL
+
+### API testing and collaboration tool
+- Postman
+- Swagger
+
+### Testing Framework
+- JUnit
+- Groovy  
