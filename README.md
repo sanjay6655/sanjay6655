@@ -5,7 +5,6 @@
 *	7+ years of experience includes software design, development and support using IBM WCS v6.0 and v7.0 / Feature Pack 4, 6, 7 and 8 in ecommerce domain
 *	2+ years of experience includes product development in e-Learning domain
 *	3+ years of experience includes software development and support in e-Media domain
-*	Basic knowledge in Spring MicroServices
 *	Demonstrated skills in software architecture - Worked with application development teams to define, design and implement the solution architecture, with the responsibility of cross project technology and architecture vision
 *	Working experience on Agile, Scrum development methodology
 *	Deep experience and knowledge of object oriented design and analysis, and software design patterns
@@ -66,7 +65,7 @@
 - SAP Hybris 1905
 
 ### Databases
-- Oracle 9i / 11g
+- Oracle
 - DB2
 - MySQL
 - MongoDB
@@ -79,7 +78,7 @@
 
 #### Search  
 - Apache Solr
-- Elasticsearch
+- ElasticSearch
 
 ### Build, Logging
 - ANT
