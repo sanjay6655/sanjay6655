@@ -46,6 +46,7 @@
 ### Application Servers
 - WebLogic 8.1
 - JBOSS 4.2
+- Apache Tomcat
 
 ### Databases
 - Oracle
