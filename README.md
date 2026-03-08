@@ -21,28 +21,13 @@
 
 ## Tools & Technologies
 
-### Bug Tracking
-- Trackit Record
-- JIRA
-- Rally
-
-### IDEs & Development Tools
-- Eclipse
-- IntelliJ
-- IBM RAD
-- TOAD
-- SQL Developer
-- Cygwin
-- Putty
-- JMX Console
-
 ### Languages & Frameworks
 - Java
 - JSP, Servlet
 - Struts 1.2
 - EJB 2.0 / 2.1 / 3.0
 - JSF
-- Spring (MVC, Boot, REST, Batch, JPA)
+- Spring (MVC, Boot, REST, Batch, JPA, Security)
 - Hibernate
 - XML/XSL
 
@@ -61,8 +46,6 @@
 ### Application Servers
 - WebLogic 8.1
 - JBOSS 4.2
-- IBM WebSphere Commerce Server 7.0
-- SAP Hybris 1905
 
 ### Databases
 - Oracle
@@ -86,6 +69,9 @@
 
 ### Payment Integration
 - CyberSource
+  
+### Scheduling  
+- Quartz Scheduler
 
 ### Build, Logging
 - ANT
@@ -100,12 +86,6 @@
 - FindBugs/SpotBugs
 - JaCoCo
 - Cobertura
-  
-### Security
-- Spring Security
-  
-### Scheduling  
-- Quartz Scheduler
 
 ### DevOps Tool
 - Git/GitHub
@@ -127,3 +107,18 @@
 ### Testing Framework
 - JUnit
 - Groovy  
+
+### Feature and Bug Tracking
+- Trackit Record
+- JIRA
+- Rally
+
+### IDEs & Development Tools
+- Eclipse
+- IntelliJ
+- IBM RAD
+- TOAD
+- SQL Developer
+- Cygwin
+- Putty
+- JMX Console
