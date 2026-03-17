@@ -34,6 +34,8 @@
 ### Frontend
 - React JS
 - Angular
+- Typescript
+- JavaScript(ES6+)
 
 ### E-Commerce Platforms
 - IBM WebSphere Commerce (WCS)
