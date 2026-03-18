@@ -98,6 +98,7 @@
 - Jenkins
 - Docker
 - Grafana
+- Prometheus
 - Kibana
 - Dynatrace
 
