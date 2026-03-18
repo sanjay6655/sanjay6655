@@ -41,6 +41,13 @@
 - IBM WebSphere Commerce (WCS)
 - SAP Hybris Commerce
 
+### Cloud Platform
+- Google Cloud Platform
+  - Cloud Run
+  - GCS
+  - Pub/Sub
+
+
 ### Messaging & Streaming
 - Apache ActiveMQ
 - Apache Kafka
