@@ -47,7 +47,6 @@
   - GCS
   - Pub/Sub
 
-
 ### Messaging & Streaming
 - Apache ActiveMQ
 - Apache Kafka
@@ -96,6 +95,7 @@
 - FindBugs/SpotBugs
 - JaCoCo
 - Cobertura
+- Checkmarx
 
 ### DevOps Tool
 - Git/GitHub
