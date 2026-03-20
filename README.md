@@ -120,7 +120,8 @@
 
 ### Testing Framework
 - JUnit
-- Groovy  
+- Groovy
+- Mockito
 
 ### Feature and Bug Tracking
 - Trackit Record
