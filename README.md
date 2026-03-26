@@ -50,6 +50,7 @@
 ### Messaging & Streaming
 - Apache ActiveMQ
 - Apache Kafka
+- Apache RabbitMQ
   
 ### Application Servers
 - WebLogic 8.1
